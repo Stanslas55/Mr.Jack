@@ -1,4 +1,5 @@
 #include "Utils.h"
+#include <stdio.h>
 
 void Melanger(int Perso[8]){
 	int j, tmp;	
